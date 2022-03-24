@@ -44,10 +44,29 @@
   padding: 9px;
   margin: 7px;
   text-decoration: none;
-  color: black;
+  color: #5f5f5f;
 }
 
 .menu__list a:hover {
-  color: white;
-  background: black;
+  color: black;
+  background: #ffb3b3;
+}
+
+.text__area {
+  margin: 100px 0 0 0px;
+}
+
+.header__title {
+  font-size: 100px;
+  font-weight: 700;
+  color: #f7f7f7;
+}
+
+.play__area {
+  margin: 270px 0 0 290px;
+}
+
+.play__text {
+  font-size: 25px;
+  font-weight: 500;
 }
